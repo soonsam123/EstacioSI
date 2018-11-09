@@ -1,0 +1,23 @@
+Olá, gostaria de apontar alguns detalhes no material. Me desculpe se falar algo incoerente.
+
+Detalhe 1) Matéria: Matemática Computacional   Aula: 03   Slide : 03
+
+Segue imagem no github https://github.com/soonsam123/EstacioSI/blob/master/MC_A3_S3.PNG
+
+Texto: Se n=0, então 0! = 1 (o fatorial de é sempre 1)
+
+Observação: Penso que seja (o fatorial de 0 é sempre 1)
+
+ 
+
+Detalhe 2) Matéria: Matemática Computacional   Aula: 03   Slide : 09
+
+Segue imagem no github https://github.com/soonsam123/EstacioSI/blob/master/MC_A3_S9.PNG
+
+Texto: Para n = 3 -> (a + b)^3 = a^3 + 3a^3b + 3ab^3 + b^3
+
+Observação: Penso que o cubo da soma seja -> a^3 + 3a^2b + 3ab^2 + b^3
+
+O que pode ser obtido por (a + b)^2 . (a + b) = (a^2 + 2ab + b^2) . (a + b) = a^3 + a^2b + 2a^2b + 2ab^2 + ab^2 + b^3
+
+= a^3 + 3a^2b + 3ab^2 + b^3
